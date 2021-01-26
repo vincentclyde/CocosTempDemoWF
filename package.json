@@ -1,0 +1,15 @@
+{
+  "name": "wakefun",
+  "version": "1.0.0",
+  "description": "醒樂專案_WakeFunProject (WFP)",
+  "main": "index.js",
+  "dependencies": {
+    "calendar-js": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
